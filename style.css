@@ -1,0 +1,7 @@
+body { margin: 0; background: #eaf6fc; color: #1f3b57; font: 16px/1.7 system-ui, "Apple SD Gothic Neo", "Malgun Gothic", sans-serif; }
+main { max-width: 720px; margin: 0 auto; padding: 24px 16px 48px; }
+section { background: #fff; border-radius: 16px; padding: 8px 24px 20px; margin: 20px 0; }
+h1 { font-size: 1.4rem; color: #e0791a; }
+h2 { font-size: 1.05rem; color: #2a6fb5; margin-top: 1.6em; }
+a { color: #2a6fb5; }
+nav, footer { text-align: center; color: #5a7fa3; }
